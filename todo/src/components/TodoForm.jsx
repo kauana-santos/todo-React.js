@@ -30,7 +30,7 @@ const TodoForm = ({addTodo}) => {
                 <option value="Estudos">Estudos</option>
                 <option value="Pessoal">Pessoal</option>
             </select>
-            <button type='submit'>Criar tarefa</button>
+            <div><button type='submit'>Criar tarefa</button></div>
         </form>
     </div>
   )
